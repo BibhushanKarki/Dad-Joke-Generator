@@ -1,4 +1,4 @@
-# vuex10
+# vuex dad-joke-generator
 
 ## Project setup
 ```
